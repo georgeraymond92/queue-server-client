@@ -35,7 +35,7 @@
 ##### Setup
 ###### `.env` requirements
 * `PORT` - 8080
-* `Q_SERVER - http://localhost:3333
+* `Q_SERVER` - http://localhost:3333
 * `MONGODB_URI` - mongodb://localhost:27017/baseball
 
 ###### Running the app
