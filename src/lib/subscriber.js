@@ -1,5 +1,3 @@
-"use strict";
-
 const io = require("socket.io-client");
 
 const SERVER = process.env.REACT_APP_Q_SERVER || "http://localhost:3333";
