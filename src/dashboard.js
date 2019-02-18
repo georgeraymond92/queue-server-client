@@ -1,6 +1,6 @@
 import React from 'react';
-import Subscriber from './lib/subscriber';
-const client = new Subscriber('database');
+import Q from './lib/subscriber';
+const client = new Q('database');
 
 
 class Dashboard extends React.Component {
