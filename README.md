@@ -7,7 +7,6 @@
 
 ### Links and Resources
 
-[![Build Status](https://www.travis-ci.com/georgeraymond92/00-deployment.svg?branch=master)](https://www.travis-ci.com/georgeraymond92/00-deployment)
 * [front end](https://github.com/georgeraymond92/queue-server-client)
 * [Queue-server](https://github.com/georgeraymond92/queue-server-react)
 * [API-Server](https://github.com/georgeraymond92/api-server-react-queue)
